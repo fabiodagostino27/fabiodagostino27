@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Ciao! 
+Sono Fabio, un **Jr Full Stack Web Developer**, appassionato di problem-solving e di costruzione di soluzioni creative.
 
-<!--
-**fabiodagostino27/fabiodagostino27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--
 
-Here are some ideas to get you started:
+💻 Ecco i linguaggi e framework che troverai sul mio profilo: 
+- **HTML**
+- **Javascript**
+- **React**
+- **Node.js**
+- **Express**
+- **Java**
+- **Spring**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+
+Dai un'occhiata alle mie repository!
